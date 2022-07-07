@@ -80,7 +80,6 @@ io/X.file
 /serialization/Blips.serialized
 
 build/
-buildSrc/
 
 /compression/test.gz
 /compression/test.zip
